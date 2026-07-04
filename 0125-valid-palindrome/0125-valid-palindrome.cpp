@@ -1,25 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string new_str="";
-        for (char c :s){
-            if(isalnum(c)){
-                new_str += tolower(c);
-            }
-        }
-        // cout<<new_str;
-        // checking for the pallindrome number
-        int left = 0;
-        int right=new_str.size()-1;
+        int left=0;
+        int right = s.size()-1;
         while(left<right){
-            if (new_str[left]!=new_str[right]){
+            while(left<right && !isalnum(s[left])){
+                left++;
+            }
+            while(left<right && !isalnum(s[right])){
+                right--;
+            }
+            if(tolower(s[left])!=tolower(s[right])){
                 return false;
             }
             left++;
             right--;
         }
         return true;
-        
-        
     }
+    // return true;
 };
