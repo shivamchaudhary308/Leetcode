@@ -7,6 +7,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0001-two-sum) |
+| [1672-richest-customer-wealth](https://github.com/shivamchaudhary308/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamchaudhary308/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/shivamchaudhary308/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
