@@ -7,6 +7,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamchaudhary308/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -43,6 +44,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shivamchaudhary308/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shivamchaudhary308/Leetcode/tree/master/0344-reverse-string) |
@@ -75,6 +77,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
