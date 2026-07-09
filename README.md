@@ -10,6 +10,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamchaudhary308/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1672-richest-customer-wealth](https://github.com/shivamchaudhary308/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamchaudhary308/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -18,6 +19,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0001-two-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shivamchaudhary308/Leetcode/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
