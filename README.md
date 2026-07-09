@@ -12,6 +12,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1672-richest-customer-wealth](https://github.com/shivamchaudhary308/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamchaudhary308/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0012-integer-to-roman](https://github.com/shivamchaudhary308/Leetcode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/shivamchaudhary308/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamchaudhary308/Leetcode/tree/master/0344-reverse-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamchaudhary308/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,4 +85,8 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamchaudhary308/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamchaudhary308/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
