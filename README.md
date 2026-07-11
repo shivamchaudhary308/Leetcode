@@ -32,6 +32,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0050-powx-n](https://github.com/shivamchaudhary308/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivamchaudhary308/Leetcode/tree/master/0326-power-of-three) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamchaudhary308/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamchaudhary308/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
