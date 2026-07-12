@@ -116,10 +116,15 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/shivamchaudhary308/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0707-design-linked-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0707-design-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
