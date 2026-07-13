@@ -60,6 +60,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/shivamchaudhary308/Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -114,6 +115,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/shivamchaudhary308/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0707-design-linked-list) |
