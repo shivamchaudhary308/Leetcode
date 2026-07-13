@@ -8,6 +8,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0001-two-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shivamchaudhary308/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamchaudhary308/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivamchaudhary308/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
@@ -128,6 +130,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/shivamchaudhary308/Leetcode/tree/master/0078-subsets) |
 ## Design
 |  |
 | ------- |
