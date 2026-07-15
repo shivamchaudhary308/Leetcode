@@ -28,6 +28,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0012-integer-to-roman](https://github.com/shivamchaudhary308/Leetcode/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -39,6 +40,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0012-integer-to-roman](https://github.com/shivamchaudhary308/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shivamchaudhary308/Leetcode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivamchaudhary308/Leetcode/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamchaudhary308/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -78,6 +80,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0142-linked-list-cycle-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivamchaudhary308/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
