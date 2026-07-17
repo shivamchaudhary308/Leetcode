@@ -17,6 +17,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1488-avoid-flood-in-the-city](https://github.com/shivamchaudhary308/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1672-richest-customer-wealth](https://github.com/shivamchaudhary308/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamchaudhary308/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -45,6 +46,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shivamchaudhary308/Leetcode/tree/master/0326-power-of-three) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamchaudhary308/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shivamchaudhary308/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
