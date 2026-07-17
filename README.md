@@ -20,6 +20,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [1488-avoid-flood-in-the-city](https://github.com/shivamchaudhary308/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1672-richest-customer-wealth](https://github.com/shivamchaudhary308/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamchaudhary308/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/shivamchaudhary308/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0326-power-of-three](https://github.com/shivamchaudhary308/Leetcode/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamchaudhary308/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/shivamchaudhary308/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
