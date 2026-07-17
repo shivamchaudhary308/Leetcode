@@ -42,6 +42,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0050-powx-n](https://github.com/shivamchaudhary308/Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shivamchaudhary308/Leetcode/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamchaudhary308/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -129,6 +130,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0258-add-digits) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/shivamchaudhary308/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamchaudhary308/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Linked List
@@ -167,5 +169,6 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0258-add-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
