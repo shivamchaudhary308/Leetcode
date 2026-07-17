@@ -45,6 +45,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0258-add-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shivamchaudhary308/Leetcode/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamchaudhary308/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
@@ -133,6 +134,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0258-add-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0258-add-digits) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/shivamchaudhary308/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamchaudhary308/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Linked List
 |  |
 | ------- |
