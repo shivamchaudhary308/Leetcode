@@ -21,6 +21,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [1488-avoid-flood-in-the-city](https://github.com/shivamchaudhary308/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1672-richest-customer-wealth](https://github.com/shivamchaudhary308/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamchaudhary308/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shivamchaudhary308/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
@@ -36,6 +37,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
 | [1488-avoid-flood-in-the-city](https://github.com/shivamchaudhary308/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
@@ -77,6 +79,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0203-remove-linked-list-elements](https://github.com/shivamchaudhary308/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivamchaudhary308/Leetcode/tree/master/0326-power-of-three) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +130,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,4 +181,8 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0258-add-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0258-add-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
