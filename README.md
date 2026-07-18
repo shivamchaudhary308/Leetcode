@@ -23,6 +23,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamchaudhary308/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shivamchaudhary308/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
 | [1488-avoid-flood-in-the-city](https://github.com/shivamchaudhary308/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivamchaudhary308/Leetcode/tree/master/0326-power-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,4 +188,5 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
