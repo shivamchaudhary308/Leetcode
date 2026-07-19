@@ -50,6 +50,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shivamchaudhary308/Leetcode/tree/master/0326-power-of-three) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamchaudhary308/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamchaudhary308/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -160,6 +161,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/shivamchaudhary308/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamchaudhary308/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
