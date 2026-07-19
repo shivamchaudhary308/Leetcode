@@ -70,6 +70,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0078-subsets](https://github.com/shivamchaudhary308/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
@@ -190,4 +191,8 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
