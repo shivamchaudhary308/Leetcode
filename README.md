@@ -19,6 +19,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/shivamchaudhary308/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1672-richest-customer-wealth](https://github.com/shivamchaudhary308/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -213,4 +214,5 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivamchaudhary308/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
