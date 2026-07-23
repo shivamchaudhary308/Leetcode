@@ -48,6 +48,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/shivamchaudhary308/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shivamchaudhary308/Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0202-happy-number) |
@@ -88,6 +89,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shivamchaudhary308/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/shivamchaudhary308/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
@@ -164,6 +166,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0142-linked-list-cycle-ii) |
