@@ -7,6 +7,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamchaudhary308/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivamchaudhary308/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0090-subsets-ii) |
@@ -139,6 +140,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamchaudhary308/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -212,6 +214,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamchaudhary308/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Prefix Sum
