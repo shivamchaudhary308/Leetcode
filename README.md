@@ -8,6 +8,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0001-two-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamchaudhary308/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shivamchaudhary308/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivamchaudhary308/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0090-subsets-ii) |
@@ -104,6 +105,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivamchaudhary308/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -197,6 +199,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivamchaudhary308/Leetcode/tree/master/0011-container-with-most-water) |
 | [1488-avoid-flood-in-the-city](https://github.com/shivamchaudhary308/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 ## Heap (Priority Queue)
 |  |
