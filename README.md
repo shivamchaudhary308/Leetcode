@@ -9,6 +9,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0001-two-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamchaudhary308/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shivamchaudhary308/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivamchaudhary308/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0090-subsets-ii) |
@@ -106,6 +107,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamchaudhary308/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -153,6 +155,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
