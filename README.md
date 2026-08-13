@@ -22,6 +22,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0238-product-of-array-except-self](https://github.com/shivamchaudhary308/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/shivamchaudhary308/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0202-happy-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/shivamchaudhary308/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
 | [1488-avoid-flood-in-the-city](https://github.com/shivamchaudhary308/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
@@ -236,6 +238,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivamchaudhary308/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/shivamchaudhary308/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
