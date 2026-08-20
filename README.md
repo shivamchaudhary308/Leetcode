@@ -57,6 +57,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shivamchaudhary308/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/shivamchaudhary308/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shivamchaudhary308/Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0202-happy-number) |
