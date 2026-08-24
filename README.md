@@ -20,6 +20,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shivamchaudhary308/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamchaudhary308/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -45,6 +46,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamchaudhary308/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -63,6 +65,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0202-happy-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivamchaudhary308/Leetcode/tree/master/0326-power-of-three) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamchaudhary308/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamchaudhary308/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -91,6 +94,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0190-reverse-bits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/shivamchaudhary308/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
@@ -153,6 +157,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamchaudhary308/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1488-avoid-flood-in-the-city](https://github.com/shivamchaudhary308/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
@@ -163,6 +168,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
