@@ -23,6 +23,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0268-missing-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamchaudhary308/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
@@ -177,6 +178,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamchaudhary308/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0494-target-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0077-combinations](https://github.com/shivamchaudhary308/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shivamchaudhary308/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0494-target-sum) |
 ## Design
 |  |
 | ------- |
@@ -256,4 +259,12 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
