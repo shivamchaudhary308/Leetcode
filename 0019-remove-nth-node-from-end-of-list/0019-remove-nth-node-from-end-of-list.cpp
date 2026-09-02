@@ -11,30 +11,38 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        int length=0;
-        ListNode* curr=head;
-        while(curr != nullptr){
-            length+=1;
-            curr=curr->next;
-
+        // to count the size of the linked list 
+        ListNode* temp=head;
+        int count=0;
+        while(temp != nullptr){
+            count++;
+            temp=temp->next;
         }
-        // find the given element to delete from the start by subtracting
-        int target=length-n;
-        if (target ==0){
-            ListNode* temp=head;
+        // if count is the first element of the linked list 
+        temp=head;
+        if(count==n){
+            ListNode* delete_head=head;
             head=head->next;
-            delete temp;
+            delete(delete_head);
             return head;
         }
-        curr=head;
-        for (int i=0;i<target-1;i++){
-            curr=curr->next;
+        else{
+            temp=head;
+            int pos=count-n-1;
+            int count_a=0;
+            while(count_a<pos){
+                temp=temp->next;
+                count_a++;
+            }
+            ListNode* deletehead=temp->next;
+            if(temp->next->next != nullptr){
+                temp->next=temp->next->next;
+            }
+            else{
+                temp->next=nullptr;
+            }
+            delete(deletehead);
+            return head;
         }
-        // delete target node
-        ListNode* temp=curr->next;
-        curr->next=curr->next->next;
-        delete temp;
-        return head;
-        
     }
 };
