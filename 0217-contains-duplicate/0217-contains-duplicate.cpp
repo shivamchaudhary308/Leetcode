@@ -1,14 +1,16 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        for (int i=0;i<nums.size()-1;i++){
-            if (nums[i]==nums[i+1]){
+        unordered_map<int,int>mp;
+        for(auto it: nums){
+            mp[it]++;
+        }
+        for(auto it: mp){
+            if(it.second>=2){
                 return true;
             }
-        
+            
         }
         return false;
-
     }
 };
