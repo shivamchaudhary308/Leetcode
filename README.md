@@ -18,6 +18,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamchaudhary308/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shivamchaudhary308/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/shivamchaudhary308/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivamchaudhary308/Leetcode/tree/master/0217-contains-duplicate) |
@@ -195,6 +196,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0022-generate-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shivamchaudhary308/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamchaudhary308/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/shivamchaudhary308/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0494-target-sum) |
 ## Simulation
 |  |
