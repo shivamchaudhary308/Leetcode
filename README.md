@@ -61,6 +61,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0268-missing-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamchaudhary308/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shivamchaudhary308/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamchaudhary308/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
@@ -95,6 +96,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0022-generate-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivamchaudhary308/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamchaudhary308/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/shivamchaudhary308/Leetcode/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchaudhary308/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1021-remove-outermost-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivamchaudhary308/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -111,6 +113,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0231-power-of-two](https://github.com/shivamchaudhary308/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/shivamchaudhary308/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/shivamchaudhary308/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shivamchaudhary308/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -194,6 +197,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0268-missing-number](https://github.com/shivamchaudhary308/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamchaudhary308/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shivamchaudhary308/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Dynamic Programming
