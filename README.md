@@ -12,6 +12,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0015-3sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/shivamchaudhary308/Leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/shivamchaudhary308/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivamchaudhary308/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0090-subsets-ii) |
@@ -171,11 +172,13 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shivamchaudhary308/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/shivamchaudhary308/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamchaudhary308/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/shivamchaudhary308/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamchaudhary308/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamchaudhary308/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
