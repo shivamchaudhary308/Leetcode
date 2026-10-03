@@ -10,6 +10,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamchaudhary308/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shivamchaudhary308/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/shivamchaudhary308/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/shivamchaudhary308/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/shivamchaudhary308/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -137,6 +138,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0011-container-with-most-water](https://github.com/shivamchaudhary308/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivamchaudhary308/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamchaudhary308/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/shivamchaudhary308/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shivamchaudhary308/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivamchaudhary308/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/shivamchaudhary308/Leetcode/tree/master/0125-valid-palindrome) |
