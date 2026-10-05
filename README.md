@@ -97,6 +97,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0012-integer-to-roman](https://github.com/shivamchaudhary308/Leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivamchaudhary308/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamchaudhary308/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shivamchaudhary308/Leetcode/tree/master/0389-find-the-difference) |
@@ -211,6 +212,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/shivamchaudhary308/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamchaudhary308/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shivamchaudhary308/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -295,6 +297,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Quickselect
 |  |
@@ -325,4 +328,8 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivamchaudhary308/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shivamchaudhary308/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
