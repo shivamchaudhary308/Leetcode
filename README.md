@@ -50,6 +50,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [3232-find-if-digit-game-can-be-won](https://github.com/shivamchaudhary308/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamchaudhary308/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivamchaudhary308/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | [0389-find-the-difference](https://github.com/shivamchaudhary308/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shivamchaudhary308/Leetcode/tree/master/0645-set-mismatch) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamchaudhary308/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivamchaudhary308/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -265,6 +267,7 @@ To automatically sync your LeetCode submissions directly to a GitHub repository 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamchaudhary308/Leetcode/tree/master/0011-container-with-most-water) |
 | [1488-avoid-flood-in-the-city](https://github.com/shivamchaudhary308/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivamchaudhary308/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
